@@ -26,8 +26,8 @@ Contains definition files for building the Singularity container to run the scri
 *The user-friendly R package for single cell copy number analysis.*
 * **CopyKit User Guide:** [navinlabcode/CopyKit-UserGuide](https://navinlabcode.github.io/CopyKit-UserGuide/)
 *CopyKit complete documentation for general users.*
-* **Step-by-step sample process:** [navinlabcode/CopyKit_paper](https://navinlabcode.github.io/CopyKit_paper/)
-* [Depreciated/outdated] R markdown tutorial for the tumor samples shown in the manuscript.*
+* **[_Depreciated/outdated_]Step-by-step sample process:** [navinlabcode/CopyKit_paper](https://navinlabcode.github.io/CopyKit_paper/)
+*R markdown tutorial for the tumor samples shown in the manuscript.*
 
 ## 📖 Citation
 
