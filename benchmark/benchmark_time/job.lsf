@@ -1,0 +1,17 @@
+#BSUB -W 240:00
+#BSUB -o /rsrch4/home/genetics/jwang48/projects/copykit/benchmark/0324_test2.log
+#BSUB -e /rsrch4/home/genetics/jwang48/projects/copykit/benchmark/0324_test2.err
+#BSUB -cwd /rsrch4/home/genetics/jwang48/projects/copykit/benchmark/
+#BSUB -q long 
+#BSUB -n 1
+#BSUB -M 80
+#BSUB -R rusage[mem=80]
+#BSUB -B
+#BSUB -N
+#BSUB -u jwang48@mdanderson.org
+#BSUB -J test2
+
+module load singularity
+module load R
+cd /rsrch4/home/genetics/jwang48/projects/copykit/benchmark/
+Rscript benchmark.R

@@ -1,0 +1,190 @@
+number of iterations= 23 
+null device 
+          1 
+null device 
+          1 
+
+FALSE  TRUE 
+   72   721 
+Calculating jaccard similarity for k range: 10 11 12 13 14 15 16 17 18 19 20pdf 
+  2 
+pdf 
+  2 
+pdf 
+  2 
+pdf 
+  2 
+pdf 
+  2 
+number of iterations= 24 
+pdf 
+  2 
+pdf 
+  2 
+
+FALSE  TRUE 
+   78  1189 
+Calculating jaccard similarity for k range: 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34pdf 
+  2 
+pdf 
+  2 
+pdf 
+  2 
+pdf 
+  2 
+pdf 
+  2 
+number of iterations= 18 
+pdf 
+  2 
+number of iterations= 15 
+pdf 
+  2 
+number of iterations= 18 
+pdf 
+  2 
+
+FALSE  TRUE 
+   38   395 
+Calculating jaccard similarity for k range: 10 11 12 13 14 15 16 17 18 19 20pdf 
+  2 
+Calculating jaccard similarity for k range: 5 6 7 8 9 10 11 12 13 14 15pdf 
+  2 
+pdf 
+  2 
+    
+     breast liver pleural
+  c1      0     0      27
+  c2      0     0      20
+  c3      0    62       0
+  c4      0   175       0
+  c5     87     0       0
+pdf 
+  2 
+pdf 
+  2 
+pdf 
+  2 
+number of iterations= 10 
+pdf 
+  2 
+number of iterations= 11 
+pdf 
+  2 
+
+FALSE  TRUE 
+  185  3103 
+Calculating jaccard similarity for k range: 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56pdf 
+  2 
+     
+      primary metastasis
+  c0        0          0
+  c1        0         47
+  c2        0         43
+  c3        0         66
+  c4        0         58
+  c5        0         48
+  c6       12         85
+  c7        0        118
+  c8        0         88
+  c9        0         61
+  c10       0         83
+  c11       0        164
+  c12       0         67
+  c13       0         78
+  c14       0         68
+  c15       0         67
+  c16       0         94
+  c17     297          0
+  c18      69          0
+  c19      69          0
+  c20      35          0
+  c21     152          0
+  c22     163          0
+  c23     259          0
+  c24      77          0
+  c25     118          0
+  c26     104          0
+  c27      51          0
+Calculating jaccard similarity for k range: 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42pdf 
+  2 
+pdf 
+  2 
+pdf 
+  2 
+pdf 
+  2 
+pdf 
+  2 
+number of iterations= 9 
+pdf 
+  2 
+number of iterations= 8 
+pdf 
+  2 
+
+FALSE  TRUE 
+  104  1585 
+Calculating jaccard similarity for k range: 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40     
+      primary metastasis
+  c0        0          0
+  c1       45          0
+  c2        0        103
+  c3      115          0
+  c4      137          0
+  c5      116          0
+  c6       27          0
+  c7       27          0
+  c8      127          0
+  c9        0         25
+  c10       0         72
+  c11       0        121
+  c12       0         31
+  c13       0         47
+  c14       0        143
+  c15      32          0
+  c16      48          0
+  c17     225          0
+Calculating jaccard similarity for k range: 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31number of iterations= 12 
+pdf 
+  2 
+pdf 
+  2 
+Calculating jaccard similarity for k range: 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24pdf 
+  2 
+pdf 
+  2 
+
+FALSE  TRUE 
+   11   530 
+pdf 
+  2 
+pdf 
+  2 
+pdf 
+  2 
+number of iterations= 7 
+pdf 
+  2 
+pdf 
+  2 
+Calculating jaccard similarity for k range: 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30pdf 
+  2 
+pdf 
+  2 
+
+FALSE  TRUE 
+   36  1029 
+pdf 
+  2 
+pdf 
+  2 
+pdf 
+  2 
+number of iterations= 45 
+pdf 
+  2 
+pdf 
+  2 
+pdf 
+  2 
