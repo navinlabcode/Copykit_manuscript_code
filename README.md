@@ -32,12 +32,14 @@ Contains definition files for building the Singularity container to run the scri
 ## 📖 Citation
 
 If you use the code or workflows in this repository, please cite the CopyKit manuscript:
-
+```
+Junke Wang, Darlan Conterno Minussi, Alexander Davis, Runmin Wei, Hanghui Ye, Emi Sei, Aislyn Schalck, Yun Yan, Hua-Jun Wu, Shanshan Bai, Cheng Peng, Min Hu, Anna Casasent, Alejandro Contreras, Hui Chen, David Hui, Senthil Damodaran, Mary E. Edgerton, Scott Kopetz, Bora Lim, Nicholas Navin,
+Delineating the copy-number substructure of metastatic tumors with CopyKit, Molecular Cell, Volume 86, Issue 2, 2026, Pages 407-422.e6, ISSN 1097-2765, https://doi.org/10.1016/j.molcel.2025.12.026.
+```
+(https://www.sciencedirect.com/science/article/pii/S109727652501024X)
 
 ## 📞 Contact
 
 For questions regarding the code in this repository, please open an issue or contact the **Navin Lab** at MD Anderson Cancer Center.
 
-```
 
-```
